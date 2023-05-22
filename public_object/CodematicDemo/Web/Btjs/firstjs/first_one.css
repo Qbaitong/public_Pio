@@ -1,0 +1,99 @@
+﻿@charset "utf-8";
+/* CSS Document */
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+  
+    background-image: url("");
+   
+}
+
+.login-box {
+    display: flex;
+    justify-content: center;
+    align-content: space-around;
+    flex-wrap: wrap;
+    width: 600px;
+    height: 400px;
+    background-color: rgba(0,0,0,0.5);
+    border: 10px;
+    padding: 20px,50px;
+    border-radius: 20px;
+    position:absolute;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+}
+
+    .login-box h1 {
+        width: 100%;
+        display: flex;
+        justify-content: center;
+        color: #fff;
+        font-size: 30px;
+    }
+
+.long-box .input-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    transform: translateY(-35px);
+}
+
+.login-box .input-box .input-text {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+    .login-box .input-box .input-text span {
+        color: white;
+        font-size: 18px;
+        margin-top: 20px;
+    }
+
+.long-box .input-box .input-text input {
+    border: 0;
+    padding: 6px;
+    border-bottom: 1px solid white;
+    background-color: #ffffff00;
+    color: #fff;
+    margin-top: 20px;
+}
+
+.login-box .input-box .input-btn {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin-top: 25px;
+    width: 145px;
+    height: 25px;
+    color: #fff;
+    background: linear-gradient(120deg,#a6c0fe 0%,#f68084 100%);
+    border-radius: 25px;
+    cursor: pointer;
+}
+
+.long-box .input-box .sign-up {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    color: white;
+    font-size: 15px;
+    pointer-events: none;
+}
+
+    .long-box .input-box .sign-up a {
+        color: #3489DB;
+        text-decoration: none;
+        cursor: pointer;
+    }
+}

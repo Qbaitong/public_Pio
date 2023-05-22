@@ -1,0 +1,49 @@
+﻿body {
+}
+p {
+    
+}
+#dh {
+    width:100%;
+    font-size: 24px;
+    color: #ffff;
+    overflow: hidden;
+}
+
+#dh {
+    background-color: aqua;
+    list-style: none;
+}
+
+#dh li {
+    float: left;[N]
+    line-height: 45px;
+    display: block;
+    width: 130px; 
+    list-style: none;
+    
+
+}
+#dh li a{
+    text-decoration:none; 
+}
+
+# ui a:hover; {
+    
+}
+#wb {
+
+    position: absolute;
+    bottom: 0;
+    background-color: rgb(75 65 85);
+    opacity: 0.5;
+    font-size: 12px;
+    line-height: 45px;
+    width: 99%;
+}
+#wb p {
+    text-align: center;
+    display: block; 
+    color: #FFF;
+}
+

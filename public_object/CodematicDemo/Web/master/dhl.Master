@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="Maticsoft.Web.master.Site1" %>
+
+<!DOCTYPE html><html><head runat="server"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title></title><link runat="server" rel="stylesheet" href="~/master/scc/Btdhl.css"><asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    </style>
+    <link href="../Btjs/btnewsfo/css/bootstrap.min.css" type="text/css" rel="stylesheet"/>
+    <link href="../Btjs/btnewsfo/css/style.css" type="text/css" rel="stylesheet" />
+    <link href="../Btjs/btnewsfo/css/swiper-bundle.min.css" type="text/css" rel="stylesheet" />
+    <link href="../Btjs/btnewsfo/js/bootstrap.min.js" type="text/javascript" rel="stylesheet" />
+    <link href="../Btjs/btnewsfo/js/jquery-3.4.1.min.js" type="text/javascript" rel="stylesheet" />
+</head>
+<body>
+   
+    <form id="form1" runat="server">
+       <header>
+        <div class="w header">
+            <nav class="nav">
+                <a href="#" class="logo">
+                    <img src="images/logo.png" alt="">
+                </a>
+                <ul class="nav-meau">
+                    <ul class="nav-meau">
+                <li><a href="../Bt/btnewsform.aspx">BT新闻</a></li>
+                <li><a href="#">
+                    <asp:Label ID="Label1" runat="server" Text="Label"></asp:Label></a></li>  
+                <li><a href="#">
+                    <asp:Label ID="Label2" runat="server" Text="Label"></asp:Label></a></li>
+                <li><a href="#">
+                    <asp:Label ID="Label3" runat="server" Text="Label"></asp:Label></a></li>
+                <li><a href="#">
+                    <asp:Label ID="Label4" runat="server" Text="Label"></asp:Label></a></li>
+                <li><a href="#">
+                    <asp:Label ID="Label5" runat="server" Text="dawds"></asp:Label></a></li>
+                <li><a href="#">
+                    <asp:Label ID="Label6" runat="server" Text="dawds"></asp:Label></a></li>
+                <li><a href="#">
+                    <asp:Label ID="Label7" runat="server" text=""></asp:Label></a></li>
+                <li><a href="#">
+                    <asp:Label ID="Label8" runat="server" text=""></asp:Label></a></li>
+                <li><a href="#">
+                    <asp:Label ID="Label9" runat="server" Text=""></asp:Label></a></li>
+                </ul>
+            </nav>
+            <ul class="user">
+                <asp:Button ID="Buttonzt" runat="server" Text="" OnClick="Buttonzt_Click1"/>
+                   <li><a href="#">
+                       <asp:Label ID="Label12" runat="server" Text="注册"></asp:Label></a></li>
+                  <li><a >
+                      <asp:Label ID="Label10" runat="server" Text=""></asp:Label></a></li>
+                  <li><a >
+                      <asp:Label ID="Label11" runat="server" Text=""></asp:Label></a></li>
+            </ul>
+        </div>
+    </header> 
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+</html>

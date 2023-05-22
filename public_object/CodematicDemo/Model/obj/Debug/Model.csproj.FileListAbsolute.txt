@@ -1,0 +1,12 @@
+D:\练习\项目实训\shengchwng\CodematicDemo\Model\bin\Debug\Maticsoft.Model.dll
+D:\练习\项目实训\shengchwng\CodematicDemo\Model\bin\Debug\Maticsoft.Model.pdb
+D:\练习\项目实训\shengchwng\CodematicDemo\Model\obj\Debug\Model.csprojAssemblyReference.cache
+D:\练习\项目实训\shengchwng\CodematicDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\练习\项目实训\shengchwng\CodematicDemo\Model\obj\Debug\Maticsoft.Model.dll
+D:\练习\项目实训\shengchwng\CodematicDemo\Model\obj\Debug\Maticsoft.Model.pdb
+D:\垃圾\新闻发布系统\public_object\CodematicDemo\Model\bin\Debug\Maticsoft.Model.dll
+D:\垃圾\新闻发布系统\public_object\CodematicDemo\Model\bin\Debug\Maticsoft.Model.pdb
+D:\垃圾\新闻发布系统\public_object\CodematicDemo\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\垃圾\新闻发布系统\public_object\CodematicDemo\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\垃圾\新闻发布系统\public_object\CodematicDemo\Model\obj\Debug\Maticsoft.Model.dll
+D:\垃圾\新闻发布系统\public_object\CodematicDemo\Model\obj\Debug\Maticsoft.Model.pdb

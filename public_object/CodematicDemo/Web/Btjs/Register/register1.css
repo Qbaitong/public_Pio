@@ -1,0 +1,15 @@
+﻿body {
+}
+#ids {
+    font-size:24px;
+}
+
+#ids {
+    width: 60%;
+    height: 20%;
+    position:absolute;
+    margin:auto;
+    top: 30%;
+    left: 0;
+    right: 0;
+}

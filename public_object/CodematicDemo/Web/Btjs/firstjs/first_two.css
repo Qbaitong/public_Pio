@@ -1,0 +1,10 @@
+﻿@charset "utf-8";
+/* CSS Document */
+.iconfont {
+    font-family: "iconfont" inpportant;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-weight-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
